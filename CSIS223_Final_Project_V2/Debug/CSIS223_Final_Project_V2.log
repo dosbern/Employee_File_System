@@ -1,0 +1,5 @@
+﻿  CSIS223_Final_Project_V2.cpp
+C:\Users\Ralvu\source\repos\CSIS223_Final_Project_V2\CSIS223_Final_Project_V2\CSIS223_Final_Project_V2.cpp(19,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  employeeTypeImp.cpp
+  Generating Code...
+  CSIS223_Final_Project_V2.vcxproj -> C:\Users\Ralvu\source\repos\CSIS223_Final_Project_V2\Debug\CSIS223_Final_Project_V2.exe
